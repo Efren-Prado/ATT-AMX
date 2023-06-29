@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AT&T - America Movil
+message: >-
+  Base de la capitalizacion de Mercado de AT&T y America
+  Movil.
+type: dataset
+authors:
+  - given-names: Manuel Efren
+    family-names: Prado Cedano
+    affiliation: Centro de Investigacion y Docencia Economicas (CIDE)
+abstract: >-
+  Base de datos de la capitalización de Mercado para AT&T y
+  América Móvil (AMX). Para el caso de AT&T el periodo que
+  abarca es de 1901 a 2005 y para AMX de 2000 a 2021. El
+  precio de las acciones de AT&T provienen de la base de
+  datos de inversores
+  (https://investors.att.com/stock-information/historical-stock-information/historical-quote/att-corp),
+  mientras que el número de acciones se generó por medio del
+  promedio anual de acciones en circulación en 1954, a
+  partir de su reporte anual. 
+keywords:
+  - AT&T
+  - AMX
+  - America Movil
+  - Capitalizacion de Mercado
+date-released: '2023-06-29'
